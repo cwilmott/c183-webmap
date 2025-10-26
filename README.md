@@ -1,3 +1,3 @@
 # c183-webmap
 
-THIS IS WHAT YOUR WEB MAP WILL LOOK LIKE!
+This should be how your webmap will look and be structured!
